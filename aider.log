@@ -1,0 +1,129 @@
+Warning: Input is not a terminal (fd=0).
+────────────────────────────────────────────────────────────────────────────────
+Update git name with: git config user.name "Your Name"
+Update git email with: git config user.email "you@example.com"
+You can skip this check with --no-gitignore
+Added .aider* to .gitignore
+Creating empty file 
+/home/runner/work/a-campus-tutoring-marketplace-post-a-lis-xz1lh/a-campus-tutori
+ng-marketplace-post-a-lis-xz1lh/a-campus-tutoring-marketplace-post-a-lis-xz1lh/a
+pp/api/items/route.ts
+Aider v0.86.2
+Model: anthropic/claude-sonnet-5 with whole edit format
+Git repo: ../.git with 3 files
+Repo-map: using 4096 tokens, auto refresh
+Added a-campus-tutoring-marketplace-post-a-lis-xz1lh/app/api/items/route.ts to 
+the chat.
+Added a-campus-tutoring-marketplace-post-a-lis-xz1lh/app/page.tsx to the chat.
+
+
+https://aider.chat/HISTORY.html#release-notes
+Note: in-chat filenames are always relative to the git working dir, not the 
+current working dir.
+Cur working dir: 
+/home/runner/work/a-campus-tutoring-marketplace-post-a-lis-xz1lh/a-campus-tutori
+ng-marketplace-post-a-lis-xz1lh/a-campus-tutoring-marketplace-post-a-lis-xz1lh
+Git working dir: 
+/home/runner/work/a-campus-tutoring-marketplace-post-a-lis-xz1lh/a-campus-tutori
+ng-marketplace-post-a-lis-xz1lh
+
+litellm.BadRequestError: AnthropicException - 
+b'{"type":"error","error":{"type":"invalid_request_error","message":"`temperatur
+e` is deprecated for this model."},"request_id":"req_011CcsR8hnKkBHvaGuUrKf4B"}'
+
+Warning: Input is not a terminal (fd=0).
+────────────────────────────────────────────────────────────────────────────────
+Aider v0.86.2
+Model: anthropic/claude-sonnet-5 with whole edit format
+Git repo: ../.git with 3 files
+Repo-map: using 4096 tokens, auto refresh
+Added a-campus-tutoring-marketplace-post-a-lis-xz1lh/app/api/items/route.ts to 
+the chat.
+Added a-campus-tutoring-marketplace-post-a-lis-xz1lh/app/page.tsx to the chat.
+Note: in-chat filenames are always relative to the git working dir, not the 
+current working dir.
+Cur working dir: 
+/home/runner/work/a-campus-tutoring-marketplace-post-a-lis-xz1lh/a-campus-tutori
+ng-marketplace-post-a-lis-xz1lh/a-campus-tutoring-marketplace-post-a-lis-xz1lh
+Git working dir: 
+/home/runner/work/a-campus-tutoring-marketplace-post-a-lis-xz1lh/a-campus-tutori
+ng-marketplace-post-a-lis-xz1lh
+
+
+PROMPT.md
+litellm.BadRequestError: AnthropicException - 
+b'{"type":"error","error":{"type":"invalid_request_error","message":"`temperatur
+e` is deprecated for this model."},"request_id":"req_011CcsR9GgVYjwC1q56h7gQQ"}'
+
+Warning: Input is not a terminal (fd=0).
+────────────────────────────────────────────────────────────────────────────────
+Aider v0.86.2
+Model: anthropic/claude-sonnet-5 with whole edit format
+Git repo: ../.git with 3 files
+Repo-map: using 4096 tokens, auto refresh
+Added a-campus-tutoring-marketplace-post-a-lis-xz1lh/app/api/items/route.ts to 
+the chat.
+Added a-campus-tutoring-marketplace-post-a-lis-xz1lh/app/page.tsx to the chat.
+Note: in-chat filenames are always relative to the git working dir, not the 
+current working dir.
+Cur working dir: 
+/home/runner/work/a-campus-tutoring-marketplace-post-a-lis-xz1lh/a-campus-tutori
+ng-marketplace-post-a-lis-xz1lh/a-campus-tutoring-marketplace-post-a-lis-xz1lh
+Git working dir: 
+/home/runner/work/a-campus-tutoring-marketplace-post-a-lis-xz1lh/a-campus-tutori
+ng-marketplace-post-a-lis-xz1lh
+
+
+PROMPT.md
+litellm.BadRequestError: AnthropicException - 
+b'{"type":"error","error":{"type":"invalid_request_error","message":"`temperatur
+e` is deprecated for this model."},"request_id":"req_011CcsR9sDP9YeTx7LffTWAQ"}'
+
+Warning: Input is not a terminal (fd=0).
+────────────────────────────────────────────────────────────────────────────────
+Aider v0.86.2
+Model: anthropic/claude-sonnet-5 with whole edit format
+Git repo: ../.git with 3 files
+Repo-map: using 4096 tokens, auto refresh
+Added a-campus-tutoring-marketplace-post-a-lis-xz1lh/app/api/items/route.ts to 
+the chat.
+Added a-campus-tutoring-marketplace-post-a-lis-xz1lh/app/page.tsx to the chat.
+Note: in-chat filenames are always relative to the git working dir, not the 
+current working dir.
+Cur working dir: 
+/home/runner/work/a-campus-tutoring-marketplace-post-a-lis-xz1lh/a-campus-tutori
+ng-marketplace-post-a-lis-xz1lh/a-campus-tutoring-marketplace-post-a-lis-xz1lh
+Git working dir: 
+/home/runner/work/a-campus-tutoring-marketplace-post-a-lis-xz1lh/a-campus-tutori
+ng-marketplace-post-a-lis-xz1lh
+
+
+PROMPT.md
+litellm.BadRequestError: AnthropicException - 
+b'{"type":"error","error":{"type":"invalid_request_error","message":"`temperatur
+e` is deprecated for this model."},"request_id":"req_011CcsRARnxK7GD8Z574oKUV"}'
+
+Warning: Input is not a terminal (fd=0).
+────────────────────────────────────────────────────────────────────────────────
+Aider v0.86.2
+Model: anthropic/claude-sonnet-5 with whole edit format
+Git repo: ../.git with 3 files
+Repo-map: using 4096 tokens, auto refresh
+Added a-campus-tutoring-marketplace-post-a-lis-xz1lh/app/api/items/route.ts to 
+the chat.
+Added a-campus-tutoring-marketplace-post-a-lis-xz1lh/app/page.tsx to the chat.
+Note: in-chat filenames are always relative to the git working dir, not the 
+current working dir.
+Cur working dir: 
+/home/runner/work/a-campus-tutoring-marketplace-post-a-lis-xz1lh/a-campus-tutori
+ng-marketplace-post-a-lis-xz1lh/a-campus-tutoring-marketplace-post-a-lis-xz1lh
+Git working dir: 
+/home/runner/work/a-campus-tutoring-marketplace-post-a-lis-xz1lh/a-campus-tutori
+ng-marketplace-post-a-lis-xz1lh
+
+
+PROMPT.md
+litellm.BadRequestError: AnthropicException - 
+b'{"type":"error","error":{"type":"invalid_request_error","message":"`temperatur
+e` is deprecated for this model."},"request_id":"req_011CcsRAyuFL1dVu3MDdEgen"}'
+
